@@ -7,8 +7,8 @@ Aspiring to be a full stack developer
 During COVID, I wanted to challenge myself and change life being a full stack developer. It's a long and hard road but my passion for coding is too big to give up.
 
 * 🌍  I'm based in Barcelona
-* 🖥️  See my portfolio at [website-canfry.vercel.app](http://website-canfry.vercel.app/)
-* 🚀  I'm currently working on [website-canfry.vercel.app](http://website-canfry.vercel.app/)
+* 🖥️  See my portfolio at [my website](https://anfrydev.com)
+* 🚀  I'm currently working on [my website](https://anfrydev.com)
 * 🧠  I'm learning React ecosystem (Nextjs, React...)
 
 ### Skills
