@@ -9,7 +9,7 @@ During COVID, I wanted to challenge myself and change life being a full stack de
 * 🌍  I'm based in Barcelona
 * 🖥️  See my portfolio at [my website](https://anfrydev.com)
 * 🚀  I'm currently working on [my website](https://anfrydev.com)
-* 🧠  I'm learning React ecosystem (Nextjs, React...)
+* 🧠  I'm learning React ecosystem (Nextjs, Astro, React...)
 
 ### Skills
 
